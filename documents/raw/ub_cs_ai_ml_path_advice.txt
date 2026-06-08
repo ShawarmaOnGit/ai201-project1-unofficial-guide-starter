@@ -5,3 +5,9 @@ Domain: Unofficial Guide to Studying Computer Science at UB
 Topic: Student advice about the CS/AI/ML track and whether it is manageable for someone with limited background
 
 TEXT: Fall intake guys take computer security instead of Data Models and Query lang and even those who are good at coding are swamped with assignments for weeks on end which take a ton of time to do. Spring with a shorter semester and probably a bit heavier course compared to computer security… All the best but its going to be a bit tough
+
+I don't know how you can take algorithms or intro to ML without having a firm footing in coding.
+
+Just curious, how are you just getting into coding and are still able to take these classes?
+
+Cs department is filled with great profs

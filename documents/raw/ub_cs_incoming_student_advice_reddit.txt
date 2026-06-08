@@ -6,4 +6,28 @@ Topic: Advice for incoming UB Computer Science freshmen
 
 TEXT: The CS program is awesome, the faculty is definitely good, but of course there are some bad professors.
 
-As far as extracurriculars, we have plenty. Seconding the other commenter who said that things outside the department like SEDS or AIAA or nanosat are better for the actual technical stuff. Networking wise, we've got DivTech (formerly scientista), ACM, oSTEM (more generally for LGBT people in any stem major), and if you're looking for work, there is a career fair, but it's very defense heavy for CS and engineering
+As far as extracurriculars, we have plenty. Seconding the other commenter who said that things outside the department like SEDS or AIAA or nanosat are better for the actual technical stuff. Networking wise, we've got DivTech (formerly scientista), ACM, oSTEM (more generally for LGBT people in any stem major), and if you're looking for work, there is a career fair, but it's very defense heavy for CS and engineering.
+
+The career fair is doghit. There's literally no big tech based companies like Google, Facebook,etc. No NYC fintech companies like Morgan Stanley, Bloomberg,etc and definitely no silicon valley startups. All you get are some defense companies and some other local companies.
+
+CSE 220 and CSE 250 are weed out courses, each with a (alleged) fail/ dropout rate of 50% so be extra vigilant when taking these courses.
+
+Try to avoid taking physics. Safe to say vast majority of students don't speak highly about the physics department.
+
+Don't even try to cheat. You WILL get caught and you WILL get bent over. Know multiple students who didn't take the warning seriously, cheated on some trivial hw that barely counted for overall grade, got caught and got an F on the entire course and have to retake it. If they cheat again they'll get kicked out of the major.
+
+Unpopular opinion but I'd say the vast majority of software engineering based clubs like ACM, DivTech, etc. are a fairly useless avenue for learning tech related skills. They're pretty good for networking though. But I'd say spend some time hopping around different clubs and stick with whatever you feel is worthwhile. Personally I felt AIAA Micro G and UB Nanosat to be the most worthwhile as they work under strict deadlines so there's always something going on.
+
+Apply externally (and no I don't mean Handshake it's doghit too apply directly on the company website). So getting an internship is relatively simple (definitely not easy, but simple).
+
+Starting off you're not gonna have proper work experience so make some coding projects to put on your resume. Don't make generic shit like tic tac toe or Todo lists.
+
+Know how to write a good resume. I'd recommend overleaf templates. Use metrics wherever possible (like "sped up this by 50%","contributed 500 lines of code",etc). Always state what technologies you worked with.
+
+Apply early. General applications for Summer 2022 internships will start opening up en masse around July and August of 2021.
+
+Apply a lot it's a numbers game. Applied to 250+ places before landing my first internship.
+
+Grind leetcode. Self explanatory, your resume doesn't get you the job it merely gets you an interview. And to Ace technical interviews leetcode is a must.
+
+Get better at behavioral interviews. Somewhat hard to get better at. Just gotta fail some in the beginning and learn from those.

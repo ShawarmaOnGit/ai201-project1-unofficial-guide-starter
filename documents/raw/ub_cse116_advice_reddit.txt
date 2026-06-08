@@ -6,3 +6,17 @@ Topic: Student advice for preparing for CSE 116 and CSE 191
 
 TEXT: Honestly I don’t even recommend trying to prepare for 191. I think math is much harder to self teach. Just put in effort when you take it and you’ll be fine.
 For 116, I would recommend familiarizing yourself with Java syntax. And then learn concepts of OOP like classes and polymorphism. If you have time to dig deeper before the spring semester, watch some videos about data structures like linked lists, trees, and graphs. Learn about some kinds of algorithms for traversing those data structures so you can get a feel for algorithmic thinking.
+
+If you have Nasrin for 191, just always attend your recitations (seriously, your TA will sometimes guide you all the way through questions) and for 116, just play around with basic Java and try to familiarize yourself with IntelliJ -- the IDE that class uses.
+
+If you're really looking to thoroughly prepare ahead of time, online tutorials on Java and Discrete Structures are probably safe resources for both classes, respectively. During the semester:
+
+116: make a point to grind hard on projects, attend OH liberally, reread lecture slides before interviews/quizzes
+
+191: write things down carefully, use Google, take smaller assignments seriously to rack up points
+
+116: get Jesse for teachers, learn java, go to class, take notes. Optionally learn basic data structures (list, array)
+
+191: get Nasrin for teachers, go to class, take notes. Optionally learn the basics of set theory and graphs, as well as how to do basic proofs.
+
+One of these classes probably talks about big O notation but I'm not sure which. But if you just came out of 115 (which I have not taken at UB so I am not sure of the content) you probably don't need to study up about it before hand, or rather, you don't need to study anything really.

@@ -7,3 +7,17 @@ Topic: Student opinions about transferring to UB for Computer Science
 TEXT: Advisors can be very cynical and having experienced that for other reasons I know that it's discouraging as hell, but I'll take that before advisors over promising and students getting pulled in to expensive degrees they can't use/finish.
 
 With that being said, if you are truly willing to commit to getting the degree. You may want to temper your expectations on getting a STEM degree in 3 years if your previous degree really doesn't contribute credits to the CS degree. Overextending yourself is the best way to burn out and put yourself further behind instead of getting ahead. This is especially true if you also need to work to support yourself. 
+
+I say go to a community college and then do a 2+2 with a 4 year school. The cs program at ub is extremely challenging and majority of students change majors or drop out. I made it through 3 semesters and then went to a community college and then a bachelor's with a school affiliated with them and i wish that's where i started.
+
+The value of CS is up to you. Yeah it is said CS is more valuable for its rigorous learning and teaches the abstracts of computers and computer programming, however any other technology adjacent degree gets you the same job placement as them.
+
+ITM here is required to take Cybersecurity courses, so you don’t have to take the minor to get access to the classes and it’s more network and database focused compared to the CS degree, which is more so you want to do anyways. The CS degree is just highly in-depth problem involving math and programming, which in itself is valuable for any industry
+
+Personally, I’ll test the waters with CS, see if I like it or not, more so if can I tolerate the general Ed’s when I enjoy my cs classes. If you like it, great see it to the next semester, if not move on to the next major of interest. There’s always a resource for doing a CS degree so definitely reach out.
+
+I'm also a transfer "adult learner" who was out of school for 6 years with an Associate degree in something completely different. While I do believe the CS program is rigorous at UB, I think it's completely doable for someone who dedicates themselves to learning and completing the material in class on time. Coming from someone who has a degree from a community college already, and now being at UB, the classes at UB are definitely harder but I think that just comes with the territory of UB being a university.
+
+I have the same plan of taking summer classes and graduating in 3 years and I seem to be on track for that as of right now while working part time in the mornings and taking classes from 1pm-6pm on average. I would look into seeing what type of transfer credits you can apply to your degree, even if they're just gen eds and then making a plan in the UB Hub planner to see how many semesters it might take to complete the rest of the program requirements. If you don't have access to that yet, take a look at the CS program page on the UB website and pick and choose from there. If you have access to the SEAS Academics, even better. Go there and look at their optimized planner for the next few years and see if you can handle that (though that does not include summer semesters so you'll have to figure that out on your own).
+
+I can't speak on anything to do with IT since that is not what I am focusing on, but if the goal is a CS degree specifically I think UB is a great school and in a much better location than Buff State and ECC.
