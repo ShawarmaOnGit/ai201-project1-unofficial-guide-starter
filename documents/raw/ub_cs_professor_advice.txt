@@ -1,0 +1,7 @@
+Source Title: Help me pick my professors for computer engineering second semester
+Source Type: Reddit thread
+Source URL: https://www.reddit.com/r/UBreddit/comments/1gr8800/help_me_pick_my_professors_for_computer/
+Domain: Unofficial Guide to Studying Computer Science at UB
+Topic: Student advice about choosing Computer Science professors
+
+TEXT: For cse 116 I’d take Jesse if you like being taught with lecture slides or Paul if you prefer live coding. Both are really great professors though and you can’t go wrong with either one.

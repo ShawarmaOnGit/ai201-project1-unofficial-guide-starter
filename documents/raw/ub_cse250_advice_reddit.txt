@@ -1,0 +1,24 @@
+Source Title: CSE250
+Source Type: Reddit thread
+Source URL: https://www.reddit.com/r/UBreddit/comments/khvrxt/cse250/
+Domain: Unofficial Guide to Studying Computer Science at UB
+Topic: Student advice and opinions about CSE 250
+
+TEXT: It's extremely difficult and complicated because UB/SEAS wants it to be extremely difficult and complicated
+
+I've been a TA for many Cs undergrad courses and these things are designed that way
+
+CSE 250 is the main filter course for CS graduates...
+
+Everyone who has good basics, solid fundamentals and is willing to put in the crazy work and keep up with the variety of tests/assignments gets to go ahead and take junior, senior level classes (for most of which this is a pre req) tbh
+
+And those who can't step away and end up changing their paths while they still have time to do so and graduate in other courses
+
+The dropout rate AFTER clearing 250 is almost negligible for CS students so basically anyone who can clear this barrier is usually good enough to tackle the rest as well
+
+Whereas the ones who can't clear 250 usually end up switching out completely and shifting their majors outside CS.
+
+Sure there might be a few talented CS hopefuls who may not be able to contend with the huge workload that Hughes pushes on them but the department seems to think that's an acceptable risk to having a course that can filter students properly.
+
+Hughes could/should definitely stop teaching other classes and put his entire focus on making 250 better but it is always going to be extremely difficult and with a huge workload
+

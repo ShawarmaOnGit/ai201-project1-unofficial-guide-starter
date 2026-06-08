@@ -1,0 +1,9 @@
+Source Title: How to CSE115?
+Source Type: Reddit thread
+Source URL: https://www.reddit.com/r/UBreddit/comments/18e884x/how_to_cse115/
+Domain: Unofficial Guide to Studying Computer Science at UB
+Topic: Student advice for succeeding in CSE 115
+
+TEXT: I’m a non-cs major who had to take CSE115, and I won’t sugarcoat it, this course was ROUGH. The professors are fantastic, especially Hertz, but I always felt behind. Ultimately this is a comp sci class, not a programming class, so a lot of this is utilizing the language you learned in class to solve problems, not just learning the language.
+For example, in class you might learn how to use Python to sort a list of words in alphabetical order, and how to concatenate a chunk of text to make a list separated by commas. Then on an exam you might be asked to take a chunk of text, turn that into a list of words, and then sort that in alphabetical order. It’s just applying the functions you learn in class, what’s important is remembering the “grammar,” memorizing the “vocabulary,” and being able to write sentences. It’s a lot like learning a language.
+I won’t lie: 22 credits is a LOT, and you might find that the majority of your time will go into this class. It’s smart to want to prep before the semester starts. I’ll tell you that, as far as I know, Python is the primary focus of this class. However, learning the language doesn’t improve your problem solving abilities, which are the main deal here. Anybody can memorize the functions, what separates people who pass from people who fail is being able to apply those logically. If you do plan on learning some python, definitely make sure you’re practicing the functional uses of functions with problems and data.

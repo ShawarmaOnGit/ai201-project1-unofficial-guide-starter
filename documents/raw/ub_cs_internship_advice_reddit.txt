@@ -1,0 +1,17 @@
+Source Title: Experience as a computer science student looking for summer internships
+Source Type: Reddit thread
+Source URL: https://www.reddit.com/r/UBreddit/comments/1evn8zd/experience_as_a_computer_science_student_looking/
+Domain: Unofficial Guide to Studying Computer Science at UB
+Topic: Student experience in Computer Science with a focus on career preparation or looking for opportunities
+
+TEXT: Hey there! I've done 2 internships during my time at UB (4 overall). My experience has been mixed. It depends a lot on the company you're aiming for.
+
+If it's a local small-medium company, you don't need much leetcode. Just something that demonstrates competency
+
+If it's a startup, they value relevant projects way more than how you performed grade wise. If you're interested in startups, start learning langs like js, ts, and python. Learn libs like React or Vue and build cool stuff with them (an example being a game marketplace like steam, since you mentioned making games in the past)
+
+For unicorns and FAANG/FAANG-adjacent, it's a mix of projects and being able to do leetcode questions. The UB courses are not nearly enough, you have to do as many projects and leetcode questions as you can if you want to ace the online assessments (OAs). Companies are starting to increase the difficulty a lot. I recommend neetcode.io and doing the neetcode 150. It takes almost a month to even be ready to tackle leetcode mediums confidently, let alone hards. If you start this in your sophomore year and consistently do leetcode, you're almost guaranteed to ace the OAs for FAANG companies.
+
+It's a great idea to do the UB Hacking hackathon. Don't stop there, do hackathons all over the country, do HackPrinceton, HackMIT, as many as you can. Recruiters sponsor these events and have tables, and if you build impressive stuff then you could even get a guaranteed interview. Go to clubs like ACM as well. Lots of good career advice stuff there.
+
+Neither startups nor FAANG care much about non relevant work experience. Start using things like ELN at UB for more work experience.

@@ -1,0 +1,8 @@
+Source Title: Tips for preparing for CSE116 and CSE191
+Source Type: Reddit thread
+Source URL: https://www.reddit.com/r/UBreddit/comments/18po39o/tips_for_preparing_for_cse116_and_cse191/
+Domain: Unofficial Guide to Studying Computer Science at UB
+Topic: Student advice for preparing for CSE 116 and CSE 191
+
+TEXT: Honestly I don’t even recommend trying to prepare for 191. I think math is much harder to self teach. Just put in effort when you take it and you’ll be fine.
+For 116, I would recommend familiarizing yourself with Java syntax. And then learn concepts of OOP like classes and polymorphism. If you have time to dig deeper before the spring semester, watch some videos about data structures like linked lists, trees, and graphs. Learn about some kinds of algorithms for traversing those data structures so you can get a feel for algorithmic thinking.

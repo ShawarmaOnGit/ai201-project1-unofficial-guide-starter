@@ -1,0 +1,7 @@
+Source Title: How is CS(AI/ML) track for someone who’s only getting started with coding?
+Source Type: Reddit thread
+Source URL: https://www.reddit.com/r/UBreddit/comments/17wuvab/how_is_csaiml_track_for_someone_whos_only_getting/
+Domain: Unofficial Guide to Studying Computer Science at UB
+Topic: Student advice about the CS/AI/ML track and whether it is manageable for someone with limited background
+
+TEXT: Fall intake guys take computer security instead of Data Models and Query lang and even those who are good at coding are swamped with assignments for weeks on end which take a ton of time to do. Spring with a shorter semester and probably a bit heavier course compared to computer security… All the best but its going to be a bit tough

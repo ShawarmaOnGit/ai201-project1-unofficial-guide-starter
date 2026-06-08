@@ -1,0 +1,9 @@
+Source Title: Incoming Computer Science Freshman Fall 2021
+Source Type: Reddit thread
+Source URL: https://www.reddit.com/r/UBreddit/comments/n69wz8/incoming_computer_science_freshman_fall_2021/
+Domain: Unofficial Guide to Studying Computer Science at UB
+Topic: Advice for incoming UB Computer Science freshmen
+
+TEXT: The CS program is awesome, the faculty is definitely good, but of course there are some bad professors.
+
+As far as extracurriculars, we have plenty. Seconding the other commenter who said that things outside the department like SEDS or AIAA or nanosat are better for the actual technical stuff. Networking wise, we've got DivTech (formerly scientista), ACM, oSTEM (more generally for LGBT people in any stem major), and if you're looking for work, there is a career fair, but it's very defense heavy for CS and engineering
