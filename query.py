@@ -1,10 +1,6 @@
 """
 query.py — Grounded generation using retrieved chunks and Groq.
 
-Retrieves the top 5 relevant chunks from ChromaDB, then sends them to
-Groq's LLM as context. The model is instructed to answer ONLY from the
-provided chunks — no outside knowledge allowed.
-
 Run:
     python query.py
 """
@@ -15,10 +11,13 @@ from groq import Groq
 
 from retrieve import build_vector_store, retrieve
 
-# ── Load API key from .env ─────────────────────────────────────────────────────
+# ── Load API key and initialize clients at module level ───────────────────────
 load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-GROQ_MODEL   = "llama-3.3-70b-versatile"
+GROQ_MODEL = "llama-3.3-70b-versatile"
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+# Load the vector store once when this module is imported
+collection, embed_model = build_vector_store()
 
 # ── System prompt — enforces grounding ────────────────────────────────────────
 SYSTEM_PROMPT = """\
@@ -37,7 +36,7 @@ respond with exactly: \
 
 
 # ── ask ────────────────────────────────────────────────────────────────────────
-def ask(question: str, collection, model) -> dict:
+def ask(question: str) -> dict:
     """
     Retrieve relevant chunks, build a grounded prompt, and call Groq.
 
@@ -46,7 +45,7 @@ def ask(question: str, collection, model) -> dict:
         sources  — list of {source_file, chunk_index} for each chunk used
     """
     # Step 1: retrieve the top 5 chunks for this question
-    chunks = retrieve(question, collection, model, top_k=5)
+    chunks = retrieve(question, collection, embed_model, top_k=5)
 
     # Step 2: build a numbered context block from the chunks
     context_lines = []
@@ -66,14 +65,13 @@ Context passages:
 """
 
     # Step 4: call Groq
-    client   = Groq(api_key=GROQ_API_KEY)
     response = client.chat.completions.create(
         model=GROQ_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user",   "content": user_message},
         ],
-        temperature=0.0,   # deterministic — we want factual, grounded answers
+        temperature=0.0,
     )
 
     answer = response.choices[0].message.content.strip()
@@ -89,10 +87,6 @@ Context passages:
 
 # ── Test section ───────────────────────────────────────────────────────────────
 if __name__ == "__main__":
-    # Load the vector store once — reused for all queries
-    print("Initializing vector store...")
-    collection, embed_model = build_vector_store()
-
     test_questions = [
         "What do students say about CSE 250?",
         "How should I prepare for CSE 116 and CSE 191?",
@@ -104,7 +98,7 @@ if __name__ == "__main__":
         print(f"Question: {question}")
         print("=" * 70)
 
-        result = ask(question, collection, embed_model)
+        result = ask(question)
 
         print(f"\nAnswer:\n{result['answer']}")
 
